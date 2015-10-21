@@ -29,6 +29,9 @@ header {
   background-image: url("http://www.transparenttextures.com/patterns/checkered-pattern.png");
   box-shadow: 0px -1px 50px black inset;
   /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */ }
+  header h2 {
+    color: black;
+    font-family: "PT Sans"; }
 
 nav, p {
   font-family: "PT Sans", Roboto, "Source Sans Pro", sans-serif; }
@@ -43,7 +46,7 @@ header h1 {
   width: 60%;
   margin: auto;
   font-family: "PT Sans";
-  font-size: 4em;
+  font-size: 3.5em;
   font-weight: bold; }
   header h1 small {
     color: black; }
