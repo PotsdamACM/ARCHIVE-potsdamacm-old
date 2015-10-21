@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=PTSans);
+.headimg {
+  font-size: 10em;
+  text-align: center;
+  padding-left: 80px; }
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 15px; }
+
+.jumbo {
+  background-color: #776677;
+  padding: 100px;
+  margin-bottom: 0;
+  color: #101010; }
+  .jumbo h1 {
+    font-size: 3em;
+    font-weight: bold; }
+  .jumbo p {
+    font-size: 2em; }
+
+header {
+  padding-top: 200px;
+  color: black;
+  width: 100%;
+  min-height: 500px;
+  background-color: #6699dd;
+  background-image: url("http://www.transparenttextures.com/patterns/checkered-pattern.png");
+  box-shadow: 0px -1px 50px black inset;
+  /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */ }
+
+nav, p {
+  font-family: "PT Sans", Roboto, "Source Sans Pro", sans-serif; }
+
+body, #wrapper {
+  background-color: #eeeeff;
+  font-family: "PT Sans", Roboto, "Source Sans Pro", sans-serif;
+  margin: 0; }
+
+header h1 {
+  color: black;
+  width: 60%;
+  margin: auto;
+  font-family: "PT Sans";
+  font-size: 4em;
+  font-weight: bold; }
+  header h1 small {
+    color: black; }
+  header h1 p {
+    min-height: 140px;
+    font-size: 1.25em;
+    padding: auto; }
+
+footer {
+  background-color: #101010;
+  padding: 13px;
+  color: #9D9D9D;
+  font-family: "PT Sans"; }
+
+#hook {
+  text-align: center;
+  margin-bottom: 21px;
+  color: white; }
+
+#content {
+  width: 60%;
+  margin: auto;
+  font-family: "PT Sans"; }
+  #content h1 {
+    margin-bottom: 21px;
+    font-size: 3em; }
+  #content p {
+    margin-top: 21px; }
+
+/*# sourceMappingURL=master.css.map */
