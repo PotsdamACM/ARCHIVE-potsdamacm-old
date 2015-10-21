@@ -15,10 +15,10 @@
   margin-bottom: 0;
   color: #101010; }
   .jumbo h1 {
-    font-size: 3em;
+    font-size: 2.5em;
     font-weight: bold; }
   .jumbo p {
-    font-size: 2em; }
+    font-size: 1.5em; }
 
 header {
   padding-top: 200px;
@@ -63,14 +63,20 @@ footer {
   margin-bottom: 21px;
   color: white; }
 
+#wrapper {
+  width: 100%; }
+
 #content {
   width: 60%;
   margin: auto;
   font-family: "PT Sans"; }
   #content h1 {
     margin-bottom: 21px;
-    font-size: 3em; }
+    font-size: 3em;
+    text-align: center; }
   #content p {
-    margin-top: 21px; }
+    margin-top: 21px;
+    text-align: left;
+    text-indent: 21px; }
 
 /*# sourceMappingURL=master.css.map */
